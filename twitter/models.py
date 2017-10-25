@@ -406,6 +406,7 @@ class Status(TwitterModel):
             'quoted_status': None,
             'quoted_status_id': None,
             'quoted_status_id_str': None,
+            'reply_count': None,
             'retweet_count': None,
             'retweeted': None,
             'retweeted_status': None,
